@@ -1,14 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="81d0841e-c2a7-4553-a3b4-40e7bfe72b25" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/gson_2_9_1_copy_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_TI.iml" afterDir="false" />
+    <list default="true" id="81d0841e-c2a7-4553-a3b4-40e7bfe72b25" name="Changes" comment="Completed">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,6 +48,7 @@
       <recent name="C:\Users\Sara Cardona\IdeaProjects\_TI" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Sara Cardona\IdeaProjects\_TI\.idea\docs" />
       <recent name="C:\Users\Sara Cardona\IdeaProjects\_TI" />
       <recent name="C:\Users\Sara Cardona\IdeaProjects\_TI\.idea" />
       <recent name="C:\Users\Sara Cardona\IdeaProjects\_TI\src" />
@@ -153,6 +148,21 @@
       <option name="presentableId" value="Default" />
       <updated>1667173322827</updated>
     </task>
+    <task id="LOCAL-00001" summary="Completed">
+      <created>1667233441401</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1667233441401</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Completed">
+      <created>1667233484435</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1667233484435</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -165,5 +175,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Completed" />
+    <option name="LAST_COMMIT_MESSAGE" value="Completed" />
   </component>
 </project>
